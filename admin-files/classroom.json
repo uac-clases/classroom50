@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "",
+  "short_name": "admin-files",
+  "term": "",
+  "org": "uac-clases",
+  "team": {
+    "id": 19743126,
+    "slug": "classroom50-admin-files"
+  },
+  "teams": {
+    "teacher": {
+      "id": 19743127,
+      "slug": "classroom50-admin-files-teacher"
+    },
+    "hta": {
+      "id": 19743128,
+      "slug": "classroom50-admin-files-hta"
+    },
+    "ta": {
+      "id": 19743129,
+      "slug": "classroom50-admin-files-ta"
+    }
+  }
+}
